@@ -1,0 +1,14 @@
+{
+    "config":
+    {
+        "vendor-dir": "application/libraries"
+    }
+ 
+    ,"require":
+    {
+        "emberlabs/gravatarlib": "dev-master"
+    },
+    "require": {
+        "jamierumbelow/codeigniter-base-model": "*"
+    }
+}
